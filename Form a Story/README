@@ -1,0 +1,2 @@
+Used HTML <form> in this project to grab user input to put a spin on a classic story!
+The logic for parsing and inserting of user inputs is taken care of in main.js using JavaScript . 
