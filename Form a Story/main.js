@@ -47,3 +47,4 @@ storyEl.innerHTML = story;
 const moralMessage = document.getElementById('moral-message');
 // Populating the moral-message element with text
 moralMessage.innerHTML = `<span class="italics" title="id: message">"${message}"</span>`;
+
