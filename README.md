@@ -1,1 +1,1 @@
-# HTML-and-CSS-Projects
+# JavaScript-HTML-CSS-Projects
