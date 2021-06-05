@@ -1,0 +1,3 @@
+Using fetch, async, and await, I requested information from the Foursquare API and OpenWeather API to create a travel website.
+
+When you open the website and type in any city name and it shows the live weather and places of attractions in the city to visit.

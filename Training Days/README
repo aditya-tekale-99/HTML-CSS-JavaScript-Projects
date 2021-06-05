@@ -1,0 +1,2 @@
+Created a messaging program in JS for an athletic event.
+Main goal of this project was to remove variables from the global scope and create them in the block scope, demonstrating how block level variables work along the way.

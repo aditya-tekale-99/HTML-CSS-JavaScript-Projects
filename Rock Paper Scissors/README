@@ -1,0 +1,3 @@
+Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
+
+Made use of functions and control flow in JS to program a "Rock, Paper, Scissors" game.
