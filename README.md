@@ -24,4 +24,4 @@ In this project, I used JavaScript to randomly create a three-course meal based 
 ## [NYC Blog](https://github.com/aditya-tekale-99/HTML-CSS-JavaScript-Projects/tree/main/NYC%20Blog)  
 
 
-#### Learned the concepts from codecademy and the projects are done as a part of the learning which helped me in understanding how to create beautiful websites.
+#### Learned the concepts (HTML, JS and CSS) from codecademy and the projects were done as a part of the learning which helped in understanding how to create beautiful interactive websites.
